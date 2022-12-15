@@ -24,7 +24,6 @@ body{
   margin-top: 40px;
   margin-bottom: 40px;
   width: 80%;
-  border:10px solid black;
   margin-left: auto;
   margin-right: auto;
 }
@@ -50,6 +49,16 @@ p {
   margin: 30px auto;
   padding: 30px;
 }
+
+#mainpics {
+  width: 90%;
+  max-width: 1200px;
+  background: #40826D;
+  margin: 30px auto;
+  padding: 10px;
+  border: 10px solid black;
+}
+
 
 #titlecontainer {
   width: 100%;
