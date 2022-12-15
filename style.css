@@ -1,27 +1,51 @@
 body{
-  background: #001328;
+  background: #08415C;
   font-family: helvetica, arial. sans-serif;
-  font-size: 16px;
-  color: #58AAA9;
+  font-size: 26px;
+  color: #EBEBEB;
 }
 
 #headshot img {
-  width: 25%;
-  height: 100px;
+  width:25% ;
+}
+
+#contactDets {
+  font-size: 1em;
+  line-height: 1.4em;
+  margin-bottom: 20px;
+  color: #CCCCCC;
 }
 
 p {
-  font-size: 1px;
-  line-height: 1.5px;
+  font-size: .85em;
+  line-height: 1.4em;
   margin-bottom: 20px;
-  color: #709CD1;
+  color: #CCCCCC;
 }
 
 #container {
   width: 90%;
-  max-width: 800px;
-  background: #1C2541;
-  margin: 30px 30px 30px 30px;
+  max-width: 1200px;
+  background: #881B24;
   margin: 30px auto;
   padding: 30px;
 }
+
+#titlecontainer {
+  width: 100%;
+  max-width: 1200px;
+  background: #881B24;
+  border-top: 1px solid #06A77D;
+  padding: 1px 0 0 0;
+}
+
+#name {
+  font-size: 1em;
+  line-height: 1.4em;
+  margin-bottom: 20px;
+}
+
+
+section {
+  border-top: 1px solid #5BC0BE;
+  padding: 20px 50px;
